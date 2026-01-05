@@ -1,0 +1,3 @@
+armstrong
+
+gcd hcf

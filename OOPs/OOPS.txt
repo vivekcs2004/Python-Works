@@ -1,0 +1,18 @@
+
+#constructor
+__init__
+
+automatically invoked during object creation
+
+#features of OOPs
+
+inheritance - mechanism of child class accessing parent class attributes and methods
+              1) single inheritance
+              2) multilevel
+              3) multiple
+
+polymorphism - many forms(more than one form)     Same name, different behavior.
+              1)method overloading
+              2)method overriding
+
+abstraction  - hiding implementation details

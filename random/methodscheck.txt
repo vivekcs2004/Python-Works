@@ -1,0 +1,4 @@
+print(dir(tuple))
+print(dir(str)) 
+
+#lists the methods of the class
